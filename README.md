@@ -1,6 +1,4 @@
-# UI Crypto Wallet
-
-Flutter example resources.
+# Flutter Example Resources
 
 ## Image
 <p align="center">
