@@ -1,6 +1,5 @@
 # Flutter Example Resources
 
-## Image
 <p align="center">
 <img src="assets/readme_screen/modal_bottom.png" width=150>
 <img src="assets/readme_screen/persistent_header.png" width=150>
@@ -12,7 +11,7 @@
 To clone and run this project:
 ```sh
 $ cd newProject
-$ git clone https://github.com/pbmena/crypto_wallet.git
+$ git clone https://github.com/pbmena/flutter_example_resources.git
 $ flutter run android|ios
 ```
 
